@@ -16,7 +16,7 @@ library(sandwich)
 
 #Load Survey Data
 setwd("/Users/hmartinez10/OneDrive - Georgia State University (1)/Data 2024/ICWA")
-Amicus_Briefs <- read.csv("Final20082023Briefs.csv")
+Amicus_Briefs <- read.csv("Final19972024Briefs.csv")
 
 #logistic regression models of whether non native vs native groups are in
 #support or against ICWA
